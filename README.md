@@ -30,6 +30,17 @@ Generate Multiple Versions:
 Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
+# OUTPUT:
+
+# The City of Tomorrow, Defined by Color"
+
+The sprawling metropolis of Neo-Tokyo 2077 stands as a powerful testament to the allure and anxieties of the Cyberpunk genre. This visual series captures the essence of a high-tech, densely populated future, where colossal skyscrapers pierce the sky and neon signage is the dominant language of the street. Yet, the true genius of these images lies not in their shared architecture or crowd dynamics, but in their manipulation of atmospheric color and light. By cycling through distinct palettes—from the hazy, smog-choked warmth of a brown dusk to the electric intensity of a magenta night—the series effectively showcases how lighting alone can redefine the entire emotional and narrative context of a dystopian cityscape, transitioning the setting from a gritty reality to a synthetic dreamscape.
+<img width="1024" height="1024" alt="PHOTO 1" src="https://github.com/user-attachments/assets/ae9dcf56-33ed-42fa-bd73-9b6b4b83552f" />
+<img width="1024" height="1024" alt="PHOTO 2" src="https://github.com/user-attachments/assets/d134781e-461f-4c27-a279-1ed15d5b0610" />
+<img width="1024" height="1024" alt="PHOTO 3" src="https://github.com/user-attachments/assets/be525996-8629-4eb9-9477-3c3e6343d408" />
+
+
+
 
 
 # Result: The Prompt of the above task executed successfully
